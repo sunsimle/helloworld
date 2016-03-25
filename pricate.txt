@@ -6,3 +6,4 @@ beautiful in white
 
 create a new branch
 我整个人都不好了
+修复master上的bug
