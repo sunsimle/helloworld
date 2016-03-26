@@ -1,0 +1,4 @@
+hello hf
+you try again save.......hh
+first press ESC ,then : end
+, q! or qw(q! is give up save, wq is save.....haha)
