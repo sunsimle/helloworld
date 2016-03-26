@@ -6,4 +6,8 @@ beautiful in white
 
 create a new branch
 我整个人都不好了
+<<<<<<< HEAD
 修复master上的bug
+=======
+你是一个大笨蛋
+>>>>>>> dev
